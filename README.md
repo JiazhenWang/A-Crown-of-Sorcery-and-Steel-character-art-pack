@@ -4,6 +4,15 @@ An unofficial portrait replacement mod for the Windows/Electron release of **A C
 
 This mod replaces only the 14 character portrait images. It does not change the ChoiceScript text, chapter headers, UI icons, save data, or gameplay logic.
 
+## Download
+
+Please download the latest mod package from the **Releases** page:
+
+👉 [Latest Release]
+https://github.com/JiazhenWang/A-Crown-of-Sorcery-and-Steel-character-art-pack/releases/tag/1.0
+
+Do **not** use the green “Code → Download ZIP” button unless you only want the project files.
+
 ## What It Replaces
 
 The installer patches these portrait files inside `resources/app.asar`:
