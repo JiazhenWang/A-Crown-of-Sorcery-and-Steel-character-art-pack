@@ -4,8 +4,6 @@ An unofficial portrait replacement mod for the Windows/Electron release of **A C
 
 This mod replaces only the 14 character portrait images. It does not change the ChoiceScript text, chapter headers, UI icons, save data, or gameplay logic.
 
-![New portrait contact sheet](media/new_portrait_contact_sheet.jpg)
-
 ## What It Replaces
 
 The installer patches these portrait files inside `resources/app.asar`:
