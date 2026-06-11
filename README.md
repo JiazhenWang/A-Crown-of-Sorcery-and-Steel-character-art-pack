@@ -45,7 +45,6 @@ The installer creates a backup before patching:
 ```text
 portrait_overhaul_backup\app.asar.original
 portrait_overhaul_backup\original_portraits\
-portrait_overhaul_backup\original_portrait_contact_sheet.jpg
 ```
 
 ## Uninstall
@@ -69,6 +68,7 @@ resources\app.asar
 - Windows only.
 - No Python or Node.js install is required.
 - The scripts do not connect to the internet.
+- This repository does not include original game portrait images.
 - Save files should not be affected.
 - If the game is updated or verified through a launcher, the launcher may overwrite the modded `app.asar`; run the installer again afterward.
 
